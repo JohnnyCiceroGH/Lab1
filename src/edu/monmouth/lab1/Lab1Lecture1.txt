@@ -1,0 +1,26 @@
+Iterating forward through list
+Yearly Salary: 30000
+Yearly Salary: 35000
+Rate Per Piece: 60 Pieces Made: 2000
+Rate Per Piece: 40 Pieces Made: 3500
+Yearly Salary: 100000
+YearlyBase: 60000 Comission: 30000
+Iterating forward here is each monthlyPay
+2500
+2916
+120000
+140000
+8333
+35000
+Iterating forward after removal
+Yearly Salary: 35000
+Rate Per Piece: 60 Pieces Made: 2000
+Rate Per Piece: 40 Pieces Made: 3500
+Yearly Salary: 100000
+YearlyBase: 60000 Comission: 30000
+Contents of array
+Yearly Salary: 35000
+Rate Per Piece: 60 Pieces Made: 2000
+Rate Per Piece: 40 Pieces Made: 3500
+Yearly Salary: 100000
+YearlyBase: 60000 Comission: 30000
